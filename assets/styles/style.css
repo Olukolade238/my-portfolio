@@ -114,6 +114,12 @@
 
 .text {
     font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.text::first-letter {
+    font-style: italic;
+    font-size: 1.5em;
 }
 .second-text {
     font-size: 20px;
