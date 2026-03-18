@@ -14,8 +14,7 @@
 
 .navigation {
     gap: 40px;
-    background: rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(8px);
+    /* backdrop-filter: blur(8px); */
     display: flex;
     list-style: none;
 }
@@ -225,4 +224,12 @@ h3 {
 .contact button {
   width: fit-content;
   padding: 10px 20px;
+}
+
+/* Footer */
+footer {
+  color: #00bcd4;
+  text-align: center;
+  padding: 25px 10%;
+  font-size: 15px;
 }
