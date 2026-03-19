@@ -40,7 +40,11 @@
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(135deg, #141623, #355c7d, #6c5b7b);
+    background: linear-gradient(135deg, #4a5078, #355c7d, #6c5b7b);
+    /* background: linear-gradient(135deg, #e8f6f3, #c8e6e1, #b8d8d8); */
+    /* background: linear-gradient(135deg, #dff5f2, #b8e0d2, #9fd3c7); */
+    /* background: linear-gradient(135deg, #eaf1f1, #cfd9df, #b8d8d8); */
+    /* background: linear-gradient(135deg, #dfe9f3 0%, #e8f6f3 100%); */
     color: white;
     display: flex;
     flex-direction: column;
@@ -195,9 +199,9 @@ h3 {
 
 /* Contact Section */
 .contact {
-  background: linear-gradient(135deg,#355c7d,#6c5b7b);
-  color: #fff;
-  padding: 40px;
+    background: linear-gradient(135deg, #4a5078, #355c7d, #6c5b7b);
+    color: #fff;
+    padding: 40px;
 }
 
 .contact p {
